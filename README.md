@@ -3,6 +3,7 @@ MATLAB figures like ggplot in R<br />
 Copyright (c) 2015 Taehoon Lee
 
 # Functions
+ggPalette: colormap of the ggplot in R. <br />
 tbar: simple variant of the built-in bar function. <br />
 tboxplot: simple variant of the built-in bar function. <br />
 tplot: simple variant of the built-in plot function. <br />
